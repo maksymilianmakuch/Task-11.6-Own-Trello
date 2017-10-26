@@ -1,0 +1,25 @@
+* {
+  border: solid green 1px;
+}
+
+body {
+  color: red;
+ }
+
+.board {
+  background-color: blue;
+  text-align: left;
+}
+
+.column-container {
+  background-color: gold;
+  font-size: 19px;
+}
+
+button {
+ padding: 5px;
+ margin: 5px;
+ border-radius: 50%;
+ background-color: yellow;
+ color: silver;
+}
